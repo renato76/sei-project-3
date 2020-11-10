@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const baseUrl = 'http://localhost/api'
+const baseUrl = '/api'
 const mapBoxGeoBase = 'https://api.mapbox.com/geocoding/v5/mapbox.places'
 
 const withHeaders = () => {
