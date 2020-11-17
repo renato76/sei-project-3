@@ -3,6 +3,7 @@
 ## Table of contents 
 
 * Installation
+* Launch The App
 * Project Overview 
 * The Brief
 * Technologies Used
@@ -24,6 +25,11 @@ Clone or download the repo then do the following in Terminal:
 - Change into front-end directory: `cd frontend`
 - Install front-end dependencies: `npm i`
 - Start front-end server: `npm run start`
+
+<br />
+
+## Launch The App
+https://popquest-game.herokuapp.com/
 
 <br />
 
