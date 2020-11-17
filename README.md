@@ -230,6 +230,9 @@ I also became much more confident about how and when to use components.
 
 ## Future Content and Improvements
 
+I think we are all quite happy generally, it works on mobile devices and has many of the features we wanted. 
+
+We will probably refactor some of the code.
 
 
 
