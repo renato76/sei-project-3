@@ -9,9 +9,8 @@
 * Approach
 * Final Product - (screenshot walkthrough)
 * Wins & Blockers
-* Bugs
 * Future Content and Improvements
-* Key Learnings
+
 
 <br />
 
