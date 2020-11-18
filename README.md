@@ -1,5 +1,7 @@
 <img src="./frontend/src/styles/ga-logo.jpg" width="100" height="100">
 
+# SEI 50 Project 3  - PopQuest API
+
 ## Table of contents 
 
 * Installation
@@ -37,7 +39,7 @@ https://popquest-game.herokuapp.com/
 PopQuest allows users to complete location quests within the city of their choosing. 
 Each quest consists of a series of stops where the user must solve a clue in order to reveal the next stop. 
 In some cases, the user device's coordinates will solve the clue based on its proximity to a given location. 
-Quests can be timed for those seeking a challenge, or simply a 'guided tour'-like trip for those interested in a more leisurely journey.
+Quests can be timed for those seeking a challenge, or simply a guided tour - like trip for those interested in a more leisurely journey.
 Users can create their own quests which can be then accessed by any user. Users can also rate and review quests.
 
 <br />
@@ -48,7 +50,7 @@ Users can create their own quests which can be then accessed by any user. Users 
 * Consume your API with a separate front-end built with React
 * Be a complete product which most likely means multiple relationships and CRUD functionality for at least a couple of models
 * Implement thoughtful user stories/wireframes that are significant enough to help you know which features are core MVP and which you can cut
-* Be deployed online so it's publicly accessible.
+* Be deployed online so it's publicly accessible
 
 <br />
 
@@ -164,7 +166,7 @@ Screenshot of the front end for finding quests:
 
 ## Deployement
 
-The app was finally deployed through Heroku, we linked upo and tested the frontend and backend so that the app would load simply from the backened only. 
+The app was finally deployed through Heroku, we linked upo and tested the frontend and backend so that the app would load simply from the backend only. 
 Once this was fine, we deployed to Heroku and changed the database server from DBLabs to Atlas DB.
 
 # Product Walkthrough 
@@ -202,24 +204,25 @@ This has a full screen view of a map of the world with the location randomly cho
 
 ## Wins & Blockers 
 
-We all worked remoteley so this was challenging in itself however with Zoom calls and Slack we were able to communicate very well. 
-Initially we had a bit of a challenge getting used to working with Git/ Github as a team because it's a different approach than working solo.
+We all worked remoteley so this was challenging in itself. However, with Zoom calls and Slack we were able to communicate very well. 
+Initially, we had a bit of a challenge getting used to working with Git/ Github as a team because it's a different approach than working solo.
 
-We had several merge confilcts early on but with some excellent teamwork and guidance we were able to use best practices to resolve these. 
-For me it was the first time I worked in a group where we are all pushing changes so I definitley learned a lot about using version control through these challeneges. 
+We had several merge confilcts early on, but with some excellent teamwork and guidance, we were able to use best practices to resolve these. 
+
+For me, it was the first time I worked in a group where we are all pushing changes. I definitley learned a lot about using version control through these challeneges. 
 
 I think the team worked really well, we communicated thorughout and helped each other each step so as to not make any major errors. 
 
-Once we learned how to use Github this way the process became very smooth, and we all able to commit and pull changes whilst also working in seperate branches.
+Once we learned how to use Github, the process became very smooth, and we all able to commit and pull changes whilst also working in seperate branches.
 
-Another main challenge was getting Mapbox to work how we wanted. Sri took this task on which took a couple of days of going through documentation, support and testing various solutions. 
+Another main challenge was getting Mapbox to work how we wanted. One of my colleagues took this task on which took a couple of days of going through documentation, support and testing various solutions. 
 
-For me I had a challenge in styling for mobile view, I had built mainly for desktop so had to spend some time learning how to use Chrome Dev tools for mobile.
+I personally had a challenge in styling for mobile view; I had built mainly for desktop so had to spend some time learning how to use Chrome Dev tools for mobile.
 
 Another challenege was getting the timer to work properly, we wanted to time each quest from start to finish and then save the time to the user profile to create, 
 a but more of a challenge for users.
 
-Initially I tried using Reack hooks, however I felt that using class worked better for me for understanding the concept.
+Initially I tried using Reack hooks, however I felt that using Class worked better for me for understanding the concept.
 
 The biggest takeaways for me on this project were:
 
