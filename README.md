@@ -119,9 +119,9 @@ Wireframe for Show Single Quest:
 ## Initial Steps
 
 Having created the wireframes and user stories, we broke into 2 pairs, one pair focusing on the back-end, and the other pair on front-end.
-This worked really well for us as we were able to make good progress straight away. We communicated throughout the day via Slack and Zooom calls.
+This worked really well for us as we were able to make good progress straight away. We communicated throughout the day via Slack and Zoom calls.
 We had stand-up every morning at 9.30 on Zoom, where we would discuss what we were working on, our plan for the day, and if there were any blockers and if any help needed with these.
-We used a Trello board to create individual tasks which we would then update as we worked thorugh them.
+We used a Trello board to create individual tasks which we would then update as we worked through them.
 
 The main task for me was to create the logic for the game, so that users can go through each stop and be asked a question,
 and then once the last clue is answered correctly it would end the game and users can then choose a new quest. 
@@ -164,9 +164,9 @@ Screenshot of the front end for finding quests:
 
 <br />
 
-## Deployement
+## Deployment
 
-The app was finally deployed through Heroku, we linked upo and tested the frontend and backend so that the app would load simply from the backend only. 
+The app was finally deployed through Heroku, we linked up and tested the frontend and backend so that the app would load simply from the backend only. 
 Once this was fine, we deployed to Heroku and changed the database server from DBLabs to Atlas DB.
 
 # Product Walkthrough 
