@@ -204,16 +204,16 @@ This has a full screen view of a map of the world with the location randomly cho
 
 ## Wins & Blockers 
 
-We all worked remoteley so this was challenging in itself. However, with Zoom calls and Slack we were able to communicate very well. 
+We all worked remotely so this was challenging in itself. However, with Zoom calls and Slack we were able to communicate very well. 
 Initially, we had a bit of a challenge getting used to working with Git/ Github as a team because it's a different approach than working solo.
 
 We had several merge confilcts early on, but with some excellent teamwork and guidance, we were able to use best practices to resolve these. 
 
 For me, it was the first time I worked in a group where we are all pushing changes. I definitley learned a lot about using version control through these challeneges. 
 
-I think the team worked really well, we communicated thorughout and helped each other each step so as to not make any major errors. 
+I think the team worked really well, we communicated throughout and helped each other each step, so as to not make any major errors. 
 
-Once we learned how to use Github, the process became very smooth, and we all able to commit and pull changes whilst also working in seperate branches.
+Once we learned how to use Github, the process became very smooth, and we all able to commit and pull changes whilst also working in separate branches.
 
 Another main challenge was getting Mapbox to work how we wanted. One of my colleagues took this task on which took a couple of days of going through documentation, support and testing various solutions. 
 
